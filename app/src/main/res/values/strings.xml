@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestDemo</string>
+    <string name="py_user">用户名:</string>
+    <string name="py_pass">密码:</string>
+    <string name="py_passhint">请输入密码</string>
+    <string name="py_userhint">请输入邮箱/用户名</string>
+</resources>
